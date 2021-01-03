@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483524238727",
+    "project_id": "silken-forest-279418",
+    "storage_bucket": "silken-forest-279418.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483524238727:android:bb747774701478c8024722",
+        "android_client_info": {
+          "package_name": "com.textrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483524238727-5e0thc27ffagb2mj9eeierqi19d9rvb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD6bS9Lt13vu4BdwOya_mruW8aB5xkJHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483524238727-5e0thc27ffagb2mj9eeierqi19d9rvb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
